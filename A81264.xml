@@ -1,0 +1,552 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Case is altered. Or, Dreadful news from hell. In a discourse between the ghost of this grand traytor and tyrant Oliver Croomwel, and sir reverence my Lady Joan his wife, at their late meeting neer the scaffold on Tower-hill. With his epitaph written in hell, on all the grand traytors, now in the Tower.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81264</idno>
+            <idno type="STC">Wing C871</idno>
+            <idno type="STC">Thomason E1869_2</idno>
+            <idno type="STC">ESTC R209726</idno>
+            <idno type="EEBO-CITATION">99868593</idno>
+            <idno type="PROQUEST">99868593</idno>
+            <idno type="VID">170494</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81264)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170494)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 233:E1869[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Case is altered. Or, Dreadful news from hell. In a discourse between the ghost of this grand traytor and tyrant Oliver Croomwel, and sir reverence my Lady Joan his wife, at their late meeting neer the scaffold on Tower-hill. With his epitaph written in hell, on all the grand traytors, now in the Tower.</title>
+               </titleStmt>
+               <extent>16 p. : ill., ports.  </extent>
+               <publicationStmt>
+                  <publisher>for John Andrews at the white Lyon near Pie-Corner.,</publisher>
+                  <pubPlace>London Printed, :</pubPlace>
+                  <date>[1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint date from Wing.</note>
+                  <note>A satire that includes verse.</note>
+                  <note>Annotation on Thomason copy: "August"; "Aug. 6. 1660".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Elizabeth, d. 1665 --  Early works to 1800.</term>
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:170494:2"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of Oliver Cromwell</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>portrait of Lady Cromwell</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:170494:1" rendition="simple:additions"/>
+            <p>The Caſe is Altered.</p>
+            <p>OR, Dreadful news from Hell.</p>
+            <p>In a diſcourſe between the Ghoſt of this grand Traytor and Tyrant <hi>Oliver Croomwel,</hi> and Sir reve<g ref="char:EOLhyphen"/>rence my Lady <hi>Joan</hi> his wife, at their late meeting neer the Scaffold on Tower-hill.</p>
+            <p>WITH His Epitaph written in hell, on all the grand Traytors, now in the Tower.</p>
+            <p>
+               <hi>London</hi> Printed, for <hi>John Andrews</hi> at the white Lyon near Pie-Corner.</p>
+            <pb facs="tcp:170494:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:170494:3"/>
+            <pb facs="tcp:170494:3"/>
+            <head>The Caſe is altered, OR, Dreadful news from Hell. In a diſcourſe between the Ghoſt of that grand Tyrant and Traytor <hi>Oliver Cromwel,</hi> and Sir Reverence my La<g ref="char:EOLhyphen"/>dy <hi>Joan</hi> his wife.</head>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">W</seg>Alking over</hi> Tower-hill <hi>near about the place where</hi> Sendercome <hi>was buri<g ref="char:EOLhyphen"/>ed, I ſaw an apparition appear, Lord quoth I what is here!</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:170494:4"/>
+               <speaker>Noll.</speaker>
+               <p>Thy Lord, ſweet heart, and Queen <hi>Joan,</hi> the Old Dragon late Lord Protector.</p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>What</hi> Oliver <hi>my dear friend, In the name of the twelve grand jury Traytors, what comes thou here for.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>Why truely I come about ſeve<g ref="char:EOLhyphen"/>ral accounts now, the firſt was to know what ſtrange alterations have been here, ſince I departed my late reprobate vale of Tyranny; And another thing was to know what was become of my dear Imps, the two Princes <hi>Richard</hi> and <hi>Henry.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>As for the two Princes I ſhall relate their fall, proceeding of their miſ<g ref="char:EOLhyphen"/>fortune, by and by, but the product will prove as ſad a ſtory, as the fall of</hi> Jehew, <hi>or</hi> Bal<g ref="char:EOLhyphen"/>ſhazar, <hi>but pray tell me firſt what is the reaſon of this your ſolentary walking here.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>Why truly part is in regard of decenſions, which is always riſing be<g ref="char:EOLhyphen"/>tween the Devil and I, whereupon I do intend for to ſtreak out and appoint a place where <hi>Haſterigs</hi> bones, <hi>Scot,</hi> and <hi>Vanes,</hi> ſhall be intered, for abſolutely if they would diſpatch and come away, with their advice and my own, we could uſurp a power from the Devil, and live
+<pb n="7" facs="tcp:170494:4"/>
+in a corner by our ſelves, without inter<g ref="char:EOLhyphen"/>ruption.</p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>Why cannot you deal with him now?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>No, no, <hi>Bradſhaw</hi> and I cannot, for all we have dealt with him ſo much as we have.</p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>Well I ſhall tell them what you ſay, for I think I ſhall go to the</hi> Tower <hi>ere long.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>Ah, but not to continue there, poor <hi>Joan,</hi> muſt ye?</p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>Yes, truely, there I believe, or elſe in</hi> Bride-well.</p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>Why? you were never acceſſary to any of my horrid Vilanies, were ye.</p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>No thats true, but part of your venom lighted upon my tongue, and twas never wipt of yet, nor never will to my dy<g ref="char:EOLhyphen"/>ing day.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>Why what haſt thou ſaid to any of them all.</p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>Nothing but true honeſt preſumpti<g ref="char:EOLhyphen"/>ous words. That your ſon King Richard the fourth, had moſt right to wear the Crown of theſe three Kingdomes.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>Wear a Crown, wear a halter, I know he was never capable out.</p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>Why did you think ſo, had not he a great many of your deviliſh parts in him.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="8" facs="tcp:170494:5"/>
+               <speaker>Noll.</speaker>
+               <p>No, no, nor develiſh braines neither, for if hee'd had, he might a run the deſtruction of City and Country, as well as I did, and a lived like a Tyrant, though he had dyd like a dog.</p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>Aye truly</hi> Noll, <hi>had he but a took your courſe, we had all lived in a brave, ſweet, diabolical condition; ſo long as we had three captivitated Kingdomes to rob and impoveriſh, whom you left him heir of, and General of all the Armies, though I muſt confeſſe he knew no more how to grovern them then did a dog.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>Aye thou ſayſt true, <hi>Jug</hi> he had more mind to his Dogs and his Haucks, then he had to be a Tyrannical Protector, like me.</p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>But indeed</hi> Noll <hi>he was led by the noſe, like an ape in a ſtring, by that Schiſ<g ref="char:EOLhyphen"/>matick</hi> Judas <hi>fact</hi> Fleetwood, <hi>who run his own ruine by it, taking ſo much rope, that he hangd himſelf at laſt; and thus were we poor reprobates daſht out of counte<g ref="char:EOLhyphen"/>nance, ſcoft, ſcornd, and derided, and even ſtunck in the noſtrils of all ſober mind<g ref="char:EOLhyphen"/>ed people, worſe then your wretched corps, did at the inbalming.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>O but how did I roar at the
+<pb n="9" facs="tcp:170494:5"/>
+news, when I heard that righteouſneſs ſhould take place, it pierced my eares worſe then an augor, that even Hell gates did tremble.</p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>But how came the news thither ſo ſoon.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>Why had not they evil ſpirits enough about them to carry it.</p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>But what would you have done</hi> Noll, <hi>had you been there then at that time.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>I would have paved my way to the houſe, with their ſculs.</p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>Alas poor dog of Epypt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>But who ruld the ſword of ven<g ref="char:EOLhyphen"/>geance then, when my Imps was diſ<g ref="char:EOLhyphen"/>carded?</p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>O the Rump came tumbling in like mad, and ſat in the night times a great while.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>Why did they ſit in the night?</p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>Becauſe they were aſhamed to ſit in the day.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>Who brought them into their former rebellion?</p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>O twas</hi> Lambert <hi>running headlong as if he would break his neck.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>Altogether had been no great
+<pb n="11" facs="tcp:170494:6"/>
+matter, but did they continue long there.</p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>No, no he preſently turnd them out again, and began to ſet up for himſelf.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>O brave <hi>Lambert</hi> the Devil play his part bravely in him, to be for um and gainſt um too, but who rul'd the miſchief after <hi>Lambert.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>O a Committee of ſafety all-wea<g ref="char:EOLhyphen"/>thers.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>Ha boyes, they were a ſafe Com<g ref="char:EOLhyphen"/>mitte indeed.</p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>No not ſo ſafe neither, for they were preſently turned out agen.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>Then it ſeems the Devil plaid his part, amongſt my brethren bravely.</p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>Aye truely</hi> Noll, <hi>and amongſt your Children too as I my ſelf.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>But where was your den of ſedi<g ref="char:EOLhyphen"/>tion then all that while, the honeſt hypo<g ref="char:EOLhyphen"/>crits were hatching vilanies.</p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>O I was at home at my own joyn<g ref="char:EOLhyphen"/>ture at the Cock-pit.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>And why did you not continue their?</p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>Truely ſo I would</hi> Noll, <hi>but the Secluded Members came in, and they told me twas none of my own, and turned me clearly out of doors at laſt, neither did they
+<pb n="10" facs="tcp:170494:6"/>
+give me as much homage as they might have given to an ordinary Dutcheſs.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>Alas poor Queen, but what did the Rump do when they went to <hi>Portſ<g ref="char:EOLhyphen"/>mouth?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>O they ſtole up preſently agen, and ſate agen.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>O fie talk no more, talk no more of this, for I think I hear my bones crackle in the old cheſt, to think I had not been amongſt them in ſuch a fine vi<g ref="char:EOLhyphen"/>lenous ſport.</p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>O</hi> Oliver <hi>you had a good turn out, that the Devil fetcht you away ſo ſoon as he did, before theſe ſad dayes had come to paſs.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>Aye truly <hi>Jugg</hi> and if a had fetcht thee too, it had not been a hapeth of harme, then thou ſhouldſt a been rid from this calamity, but prethee whether be all thoſe reverence, diſcreet Rumpers gone, the Devils Compeitdors.</p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>Alaſs moſt of them be tabled in the Tower, and each of them have a cupple of Musket-teares honorably to attend them at their Chamber doors, ſecuer enough Ile warrant ye.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>Pray who are the capitals of them.</p>
+            </sp>
+            <sp>
+               <pb n="12" facs="tcp:170494:7"/>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>Why truly tis</hi> Arguile, Antrim. Haſſlerig <hi>and</hi> Vane.</p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>O brave politickcal worthy Tray<g ref="char:EOLhyphen"/>tors, all fitting to live in a Common-wealth, and able to deſtroy it in one half year.</p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>Nay they did intend to do it in leſs then a month, for had they ſet the three Kingdoms together in another war, under pretence of Religion, their deſignes had been accompliſht.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>And why were they not?</p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>Becauſe the devil brought out their deſignes ſo ſpeedily.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>The reaſon was becauſe he could ſtay no longer without their company.</p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>But who would you have now to Preach their Funeral Sermons.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>O Perſon <hi>Peters</hi> my own Di<g ref="char:EOLhyphen"/>vine, that ſent me headlong to the De<g ref="char:EOLhyphen"/>vil, and can he not as well ſend them? yes faith Ile warrant ye.</p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>Nay truely I verily believe that hees a comming along with them.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>Not unlikely truely, for he doth deſerve the place as well as the beſt of them.</p>
+            </sp>
+            <sp>
+               <pb n="13" facs="tcp:170494:7"/>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>But where will you appoint a place to bury their corps in.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>One the middle of little Tower<g ref="char:EOLhyphen"/>hill.</p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>And why there, on Tower hill?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>Becauſe they ſhall not anoy any other good people in the Church-yard.</p>
+            </sp>
+            <sp>
+               <speaker>Joan.</speaker>
+               <p>
+                  <hi>Pray will ye ordain the Epitapht which are moſt meet and ſuitable for ſuch a brave, prophane, ireligious honorable ſo<g ref="char:EOLhyphen"/>ciety.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noll.</speaker>
+               <p>Yes that I will, for my conſci<g ref="char:EOLhyphen"/>ence within me commands me to aſſiſt any of my reprobated ſons of perdition, and they ſhall be theſe as followeth.</p>
+            </sp>
+         </div>
+         <div type="series_of_epitaphs">
+            <pb n="14" facs="tcp:170494:8"/>
+            <head>THE EPITAPHS.</head>
+            <lg>
+               <l>HEre lyes the body of <hi>Arguile</hi> a <hi>Scot</hi>
+               </l>
+               <l>Whoſe Tyranny will never be for<g ref="char:EOLhyphen"/>got,</l>
+               <l>Murthered his fellow Marqueſs of <hi>Muntroſs,</hi>
+               </l>
+               <l>Thirty foot high this Vilan built his croſs,</l>
+               <l>Its too long to tell of all his acts that's paſt,</l>
+               <l>But in the end, the Gallows was his laſt</l>
+            </lg>
+            <lg>
+               <l>Here lyes the Earl of <hi>Antrim</hi> whoſe tongue,</l>
+               <l>Have bloody grand conſpiraces begun,</l>
+               <l>Brought up in <hi>Ireland</hi> but was born a <hi>Scot,</hi>
+               </l>
+               <l>Whoſe hands perpetually contrved plots,</l>
+               <l>For all his acts and horrid Villany,</l>
+               <l>A ſhameful death in this ſame place did dye.</l>
+            </lg>
+            <lg>
+               <pb n="15" facs="tcp:170494:8"/>
+               <l>Here lyes the body of <hi>Haſlerig</hi> the late</l>
+               <l>Grand Traytor to his King, both Church and State.</l>
+               <l>Moſt impirous Vilane Tyraniſed ore,</l>
+               <l>Three ſtately Kingdomes twenty years and more:</l>
+               <l>Murthered his Prince and all his ho<g ref="char:EOLhyphen"/>nours blaſt,</l>
+               <l>For which due recompence will hang at laſt.</l>
+            </lg>
+            <lg>
+               <l>Here lyes the body of <hi>Henry Vane</hi> we know,</l>
+               <l>Proud Traytor to his King and Coun<g ref="char:EOLhyphen"/>try too,</l>
+               <l>The Rumpſhips title lately did invent,</l>
+               <l>But term'd themſelves a ſtately Par<g ref="char:EOLhyphen"/>liament.</l>
+               <l>Reproach and baſeneſs heel bring to his grave,</l>
+               <l>Who liv'd like a Tyrant and dyd like a Knave.</l>
+            </lg>
+            <lg>
+               <pb n="16" facs="tcp:170494:9"/>
+               <l>Now I old <hi>Oliver</hi> have got ſuch fame,</l>
+               <l>That Rolls of Infamy records my name,</l>
+               <l>I do deſire both with heart and tongue</l>
+               <l>Beſeeching that you would not ſtay too long,</l>
+               <l>And do deſire you all your friends to tell,</l>
+               <l>Old <hi>Olivers</hi> become houſe-keeper in Hell.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
